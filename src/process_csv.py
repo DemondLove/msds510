@@ -1,3 +1,6 @@
+'''
+Module to input interim file and export processed file w/ correctly formatted headers
+'''
 if __name__ == '__main__':
     import sys
     import utils

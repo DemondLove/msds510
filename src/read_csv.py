@@ -1,3 +1,6 @@
+'''
+File to read in a csv file
+'''
 import csv
 
 

@@ -1,3 +1,6 @@
+'''
+Use the csv module ot read in csv file using dictionary
+'''
 import csv
 
 
